@@ -10,7 +10,7 @@ This Python script allows you to download images from a website, either directly
 
 # Usage
 
-  python3 download_images.py <url> [-r] [-l <depth>] [-p <path>]
+  	python3 download_images.py <url> [-r] [-l <depth>] [-p <path>]
 
 	<url>: Required argument to specify the URL of the website from which to download the images.
 
