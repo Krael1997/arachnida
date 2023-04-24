@@ -2,7 +2,7 @@
 # Cyber42-arachnida
 
 *** PARA VER LA OPCION CON LOS CODIGOS COMENTADOS Y EN ESPAÑOL PUEDES ENTRAR EN EL SIGUIENTE LINK ***
-*** **https://bird-cricket-e45.notion.site/Arachnida-6ea1126355d245f59655da1500ee9a62** **
+*** **https://savory-coral-29c.notion.site/Arachnida-Comentado-2b1be69f5a5f445fb6d53b7fc747a6e8x<** **
 
 ## Spider.py ##
 
@@ -39,3 +39,12 @@ This Python script allows you to download images from a website, either directly
 	To download all images from the website http://example.com and any linked pages up to a depth of 3, run:
 
 		python3 download_images.py http://example.com -r -l 3 -p ./data/
+
+
+## SCORPION.PY ##
+
+El script define dos funciones: parser_analyzer() y scorpion(). La función parser_analyzer() crea una instancia de la clase argparse.ArgumentParser, que se utiliza para definir los argumentos de línea de comandos que acepta el script. La función devuelve los argumentos analizados.
+
+La función scorpion() toma una lista de rutas de archivo como entrada e itera sobre cada ruta. Si el archivo es un archivo PDF o DOCX, se llama a la función file_metadata() para extraer los metadatos. De lo contrario, la función intenta abrir el archivo como una imagen utilizando la biblioteca PIL. Si la imagen se abre correctamente, la función imprime varios metadatos sobre la imagen, incluyendo su nombre, dimensiones, formato, modo y paleta. Si la imagen tiene datos EXIF, la función también imprime los datos EXIF.
+
+La función file_metadata() toma una ruta de archivo como entrada y determina si el archivo es un archivo PDF o DOCX. Si el archivo es un archivo PDF, la función utiliza la biblioteca PyPDF2 para extraer los metadatos del archivo. Si el archivo es un archivo DOCX, la función utiliza la biblioteca python-docx para extraer los metadatos.
