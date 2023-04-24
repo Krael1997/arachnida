@@ -2,7 +2,7 @@
 # Cyber42-arachnida
 
 *** PARA VER LA OPCION CON LOS CODIGOS COMENTADOS Y EN ESPAÑOL PUEDES ENTRAR EN EL SIGUIENTE LINK ***
-*** **https://savory-coral-29c.notion.site/Arachnida-Comentado-2b1be69f5a5f445fb6d53b7fc747a6e8x<** **
+	https://savory-coral-29c.notion.site/Arachnida-Comentado-2b1be69f5a5f445fb6d53b7fc747a6e8
 
 ## Spider.py ##
 
