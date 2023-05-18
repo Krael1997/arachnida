@@ -1,6 +1,8 @@
 # arachnida
 # Cyber42-arachnida
 
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhtd4mr3001608k4xcne0lt5/project/3072858" alt="abelrodr's 42 arachnida Score" /></a>
+
 *** PARA VER LA OPCION CON LOS CODIGOS COMENTADOS Y EN ESPAÑOL PUEDES ENTRAR EN EL SIGUIENTE LINK ***
 	https://savory-coral-29c.notion.site/Arachnida-Comentado-2b1be69f5a5f445fb6d53b7fc747a6e8
 
